@@ -1,7 +1,7 @@
-Getting-and-Cleaning-Data-Week-4-Assignment
+Getting-and-Cleaning-Data
 ================
 
-This repo was created to finish the assignment for week 4 of Getting and Cleaning Data Coursera course.
+This repo was created to complete the assignment for week 4 of Getting and Cleaning Data Coursera course in Data Science Specialization.
 =======================================================================================================
 
 -   First, download and unzip the data file into your R working directory.
